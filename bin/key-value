@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
 
+# bin/generate-title
 require_relative "../lib/code_challenge.rb"
