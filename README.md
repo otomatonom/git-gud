@@ -18,7 +18,7 @@ Type 'key-value' into command line. A prompt will appear, where you can enter co
 
 Using 'fetch' with an existing key will return that key's value. Format as "fetch key".
 
-   $ key-value
+    $ key-value
     >fetch key
     value
 
