@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
-# bin/generate-title
+# bin/key-value
 require_relative "../lib/code_challenge.rb"
