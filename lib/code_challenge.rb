@@ -35,7 +35,7 @@ module CodeChallenge
   end
 
 
-  def main()
+  def self.main()
 
     new_dict = Hash.new
     hash = ManageHash.new()
@@ -83,9 +83,9 @@ module CodeChallenge
     end
 
     print "\nBye!\n\n"
-    
+
   end
 
-  main()
-
 end
+
+CodeChallenge.main()
