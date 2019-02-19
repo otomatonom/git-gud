@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["cmpower4@gmail.com"]
 
   spec.summary       = %q{Code challenge that takes user input and adds it to a hash.}
-  spec.homepage      = "https://github.com/otomatonom/git-gud"
+  spec.homepage      = "https://rubygems.org/gems/code-challenge"
   spec.license       = "MIT"
 
 
