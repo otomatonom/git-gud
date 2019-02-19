@@ -6,11 +6,11 @@ require "code_challenge/version"
 Gem::Specification.new do |spec|
   spec.name          = "code_challenge"
   spec.version       = CodeChallenge::VERSION
-  spec.authors       = ["Caitlin White"]
-  spec.email         = ["cwhite@newrelic.com"]
+  spec.authors       = ["Anon"]
+  spec.email         = ["cmpower4@gmail.com"]
 
   spec.summary       = %q{Code challenge that takes user input and adds it to a hash.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/otomatonom/git-gud"
   spec.license       = "MIT"
 
 
