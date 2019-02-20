@@ -24,7 +24,7 @@ Using 'fetch' with an existing key will return that key's value. Format as "fetc
 
     >
 
-Using 'exit' will close the program.
+Using 'exit' will close the program. The dictionary values will not be saved.
 
 
 ## Contributing
