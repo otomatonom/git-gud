@@ -35,28 +35,25 @@ module CodeChallenge
   end
 
 
+  # Main program.
   def self.main()
 
     new_dict = Hash.new
     hash = ManageHash.new()
 
-    #new_dict["example"] = "hello world"
 
     command = "Let's go!"
 
     until command == 'exit'
       print "\n>"
       user_input = gets.split()
-      #print user_input
 
       command = user_input[0]
-      #print command + "\n"
 
 
       if command == 'put' || command == 'fetch'
 
           dict_key = hash.make_key(user_input)
-          #print dict_key + "\n"
 
           if command == 'put' && user_input.size == 3
               dict_value = hash.make_value(user_input)
